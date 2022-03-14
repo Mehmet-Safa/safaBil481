@@ -1,1 +1,1 @@
-web: java -jar build/libs/myDemoApp-all.jar
+web: java -jar build/libs/safaBil481-all.jar
