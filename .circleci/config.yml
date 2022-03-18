@@ -14,7 +14,7 @@ jobs:
     # See: https://circleci.com/docs/2.0/configuration-reference/#steps
     steps:
       - checkout
-      - change-directory:
+      - run:
           name: "Change dir"
           command: "cd /home/circleci/project/"
       - run:
